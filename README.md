@@ -17,4 +17,7 @@
 _Texto Italica_ 
 ***Negritas Italicas***
 
+![Descripción de la imagen]
+(https://img-b.udemycdn.com/course/750x422/1192848_e63a.jpg)
+
 Curso de Fundamentos de Programación
