@@ -13,7 +13,7 @@
 2. Dos
 3. Tres
 
-**Texto Iegritas**
+**Texto Negritas**
 _Texto Italica_ 
 ***Negritas Italicas***
 
