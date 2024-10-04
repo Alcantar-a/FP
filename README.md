@@ -12,5 +12,9 @@
 1. Uno
 2. Dos
 3. Tres
-   
+
+**Texto Iegritas**
+_Texto Italica_ 
+***Negritas Italicas***
+
 Curso de Fundamentos de Programación
